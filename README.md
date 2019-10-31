@@ -1,4 +1,4 @@
-# ansible-repo-basic-user-mgt
+# ansible-usermanagement
 
 This will do basic of these task mentioned bellow. An ansible playbook that I can run against ec2 instances as well as normal linux installations which covers Ubuntu and RedHat servers. It should do the following: 
 
@@ -19,4 +19,4 @@ This will do basic of these task mentioned bellow. An ansible playbook that I ca
 java -jar jenkins-cli.jar -s http://192.168.0.103:8080/ create-job Ansible-Modified-Job < config.xml --username "$USERNAME" --password "$PASSWORD" 
 This project will update day by day.
 
-# ansible-usermanagement
+
